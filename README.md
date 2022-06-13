@@ -1,10 +1,7 @@
 <h1 align="left">Hello there! I'm Mahak Khurmi</h1>
 
-- 🔭 I’m currently working at [HypeDocs as a Full-Stack Web Developer](https://hypedocs.co/)
+- 🔭 I’m currently working as a [Machine Learning Engineer at Huawei Technologies](https://www.huawei.com/ca/)
 
-- 🔭 I’m also involved as a Volunteer Research Assistant at [MEDCVR lab at UTM](https://www.cs.toronto.edu/~lakahrs/)
-
-- 🌱 I’m currently learning **Node, React and PyTorch**
 
 - 👨‍💻 All of my projects are available at [https://www.mahakkhurmi.com/](https://www.mahakkhurmi.com/)
 
